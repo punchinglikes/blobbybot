@@ -1,5 +1,5 @@
 # blobbybot
-All commands:
+All commands:           
  %ping - shows the bots ping.            
  %help - shows every command.                
  %suggest - suggest ideas for the bot.             
