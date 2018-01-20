@@ -1,4 +1,11 @@
 # blobbybot
+"A discord companion made to fit all of your needs" 
+
+
+This bot was all started when a friend challanged me to make a discord bot. Since i knew nothing at the tiume it was kinda hard but now, because of this bot, i know alot about how to code a discord.js bot.
+
+
+
 All commands:           
  %ping - shows the bots ping.            
  %help - shows every command.                
@@ -19,7 +26,6 @@ All commands:
 
 
 
-Discord bot stats from discordbots.org
 
 [![Discord Bots](https://discordbots.org/api/widget/362312739256926208.svg)](https://discordbots.org/bot/362312739256926208)
 
